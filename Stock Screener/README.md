@@ -1,0 +1,1 @@
+Attempts to find undervalued and recession-proof technology stocks then automatically emails me information about them, including a score calculated using the stock's price history, trading volume, company performance, and more.
