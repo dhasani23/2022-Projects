@@ -1,1 +1,209 @@
-here
+LPSN (LivePerson Inc. Common Stock)
+Was at $43.43 on 02/07/2020
+Now at $11.96
+Percent Change = -72.5%
+Volume = 824578.0
+Total Score = 14
+
+VRNS (Varonis Systems Inc. Common Stock)
+Was at $89.95 on 02/07/2020
+Now at $29.11
+Percent Change = -67.6%
+Volume = 1031501.0
+Total Score = 17
+
+ACMR (ACM Research Inc. Class A Common Stock)
+Was at $36.03 on 02/07/2020
+Now at $16.04
+Percent Change = -55.5%
+Volume = 437045.0
+Total Score = 18
+
+GILT (Gilat Satellite Networks Ltd. Ordinary Shares)
+Was at $9.56 on 02/07/2020
+Now at $6.14
+Percent Change = -35.8%
+Volume = 129941.0
+Total Score = 20
+
+EBIX (Ebix Inc. Common Stock)
+Was at $37.02 on 02/07/2020
+Now at $22.74
+Percent Change = -38.6%
+Volume = 303540.0
+Total Score = 20
+
+ICHR (Ichor Holdings Ordinary Shares)
+Was at $33.3 on 02/07/2020
+Now at $28.19
+Percent Change = -15.3%
+Volume = 119178.0
+Total Score = 21
+
+XRX (Xerox Holdings Corporation Common Stock)
+Was at $37.17 on 02/07/2020
+Now at $16.04
+Percent Change = -56.8%
+Volume = 1103708.0
+Total Score = 22
+
+EGHT (8x8 Inc Common Stock)
+Was at $19.92 on 02/07/2020
+Now at $4.48
+Percent Change = -77.5%
+Volume = 2043648.0
+Total Score = 22
+
+OLED (Universal Display Corporation Common Stock)
+Was at $177.19 on 02/07/2020
+Now at $99.78
+Percent Change = -43.7%
+Volume = 765523.0
+Total Score = 23
+
+GDS (GDS Holdings Limited ADS)
+Was at $58.47 on 02/07/2020
+Now at $22.73
+Percent Change = -61.1%
+Volume = 1467736.0
+Total Score = 24
+
+SSTI (ShotSpotter Inc. Common Stock)
+Was at $29.29 on 02/07/2020
+Now at $28.79
+Percent Change = -1.7%
+Volume = 35172.0
+Total Score = 26
+
+YEXT (Yext Inc. Common Stock)
+Was at $15.88 on 02/07/2020
+Now at $4.68
+Percent Change = -70.5%
+Volume = 2286973.0
+Total Score = 26
+
+OSIS (OSI Systems Inc. Common Stock (DE))
+Was at $91.19 on 02/07/2020
+Now at $81.06
+Percent Change = -11.1%
+Volume = 178545.0
+Total Score = 27
+
+SAP (SAP  SE ADS)
+Was at $135.06 on 02/07/2020
+Now at $85.86
+Percent Change = -36.4%
+Volume = 1065649.0
+Total Score = 28
+
+ANGI (Angi Inc. Class A Common Stock)
+Was at $8.27 on 02/07/2020
+Now at $3.61
+Percent Change = -56.3%
+Volume = 1712295.0
+Total Score = 28
+
+STNE (StoneCo Ltd. Class A Common Shares)
+Was at $40.78 on 02/07/2020
+Now at $9.28
+Percent Change = -77.2%
+Volume = 4839094.0
+Total Score = 28
+
+RAMP (LiveRamp Holdings Inc. Common Stock)
+Was at $40.85 on 02/07/2020
+Now at $21.12
+Percent Change = -48.3%
+Volume = 1159423.0
+Total Score = 29
+
+WIX (Wix.com Ltd. Ordinary Shares)
+Was at $145.05 on 02/07/2020
+Now at $72.63
+Percent Change = -49.9%
+Volume = 1529806.0
+Total Score = 30
+
+LITE (Lumentum Holdings Inc. Common Stock)
+Was at $87.3 on 02/07/2020
+Now at $79.44
+Percent Change = -9.0%
+Volume = 629276.0
+Total Score = 32
+
+AMSWA (American Software Inc. Class A Common Stock)
+Was at $14.81 on 02/07/2020
+Now at $15.77
+Percent Change = +6.5%
+Volume = 163151.0
+Total Score = 33
+
+DDD (3D Systems Corporation Common Stock)
+Was at $10.92 on 02/07/2020
+Now at $9.66
+Percent Change = -11.5%
+Volume = 1091379.0
+Total Score = 35
+
+CYBR (CyberArk Software Ltd. Ordinary Shares)
+Was at $138.9 on 02/07/2020
+Now at $152.24
+Percent Change = +9.6%
+Volume = 316613.0
+Total Score = 37
+
+FTNT (Fortinet Inc. Common Stock)
+Was at $117.11 on 02/07/2020
+Now at $51.87
+Percent Change = -55.7%
+Volume = 7693733.0
+Total Score = 37
+
+ONEM (1Life Healthcare Inc. Common Stock)
+Was at $26.69 on 02/07/2020
+Now at $17.07
+Percent Change = -36.0%
+Volume = 3281747.0
+Total Score = 40
+
+PD (PagerDuty Inc. Common Stock)
+Was at $22.5 on 02/07/2020
+Now at $23.73
+Percent Change = +5.5%
+Volume = 1116753.0
+Total Score = 44
+
+DOCU (DocuSign Inc. Common Stock)
+Was at $83.16 on 02/07/2020
+Now at $60.93
+Percent Change = -26.7%
+Volume = 6616171.0
+Total Score = 45
+
+SQ (Block Inc. Class A Common Stock)
+Was at $78.86 on 02/07/2020
+Now at $69.58
+Percent Change = -11.8%
+Volume = 12323744.0
+Total Score = 49
+
+ADSK (Autodesk Inc. Common Stock)
+Was at $207.01 on 02/07/2020
+Now at $208.34
+Percent Change = +0.6%
+Volume = 3041622.0
+Total Score = 50
+
+ADBE (Adobe Inc. Common Stock)
+Was at $366.09 on 02/07/2020
+Now at $368.39
+Percent Change = +0.6%
+Volume = 4175142.0
+Total Score = 51
+
+MU (Micron Technology Inc. Common Stock)
+Was at $56.88 on 02/07/2020
+Now at $53.62
+Percent Change = -5.7%
+Volume = 22361779.0
+Total Score = 54
